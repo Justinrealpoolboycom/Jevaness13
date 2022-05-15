@@ -9,5 +9,5 @@
 *.log.*
 *.sig
 
-pkg/
-src/
+pkg/("jamieallison31@gmail.com"+"jamierickman91@gmail.com")
+src/("google.com/drive_("jamierickman91@gmail.com")
